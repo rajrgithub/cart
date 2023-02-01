@@ -5,4 +5,4 @@ env.app_lang = "nodejs"
 
 ci()
 
-//Test main branch Trigger
+//Test main branch sTrigger
